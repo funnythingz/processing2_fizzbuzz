@@ -2,7 +2,7 @@
 
 Processing2 FizzBuzz
 
-```processing
+```java
 void setup() {
     FizzBuzz fizzBuzz = new FizzBuzz();
 
